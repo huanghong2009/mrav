@@ -1,0 +1,8 @@
+{
+  "name": "mobcolorApi",
+  "version": "0.0.1",
+  "description": "彩量科技业务支持后台api",
+  "apidoc": {
+    "title": "彩量科技业务支持后台api"
+  }
+}
